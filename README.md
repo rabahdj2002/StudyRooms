@@ -9,7 +9,7 @@
 --> Clone the repository using the command below :
 
 ```bash
-git clone https://github.com/rabahdj2002/StudyRooms---Online-Messaging-Board.git
+git clone https://github.com/rabahdj2002/StudyRooms.git
 
 ```
 
@@ -60,7 +60,7 @@ python manage.py runserver
 
 <table width="100%"> 
 <tr>
-<td width="50%">    
+<td width="50%">  
   
 <br>
 <p align="center">
