@@ -4,7 +4,7 @@
 
 </div>
 
-vIEW [DEMO](https://studyroom.djebbesrabah.repl.co/)
+View [DEMO](https://studyroom.djebbesrabah.repl.co/)
 
 ### Cloning the repository
 
